@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Amirshayan Tatari"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning Engineer at STRABAG ISS"
+  bio              : "ML Engineer at STRABAG ISS"
   location         : "Berlin, Germany"
   employer         : # employer
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/amirshayan-tatari"
+  linkedin         : "amirshayan-tatari"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
