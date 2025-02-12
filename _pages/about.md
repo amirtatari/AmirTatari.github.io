@@ -8,8 +8,19 @@ redirect_from:
 ---
 <div style="text-align: justify"> 
 I am a machine learning engineer working at STRABAG ISS. I completed my MSc in Mechatronics from Hamburg Univerity of Technology(TUHH) and 
-completed my thesis at <a href="https://www.tuhh.de/ilt/en/welcome-1">ILT</a> under the supervision of <a href="https://www.researchgate.net/profile/Volker-Gollnick">Prof. Dr.-Ing. Volker Gollnick</a>. <br>
+completed my thesis with the topic "Deep Learning based Fire and Smoke Detection Algorithm for Unmanned Air Systems Operations" at <a href="https://www.tuhh.de/ilt/en/welcome-1">ILT</a> under the supervision of <a href="https://www.researchgate.net/profile/Volker-Gollnick">Prof. Dr.-Ing. Volker Gollnick</a>. <br>
 </div>
+<br>
+<br>
+
+Research Area
+======
+I am doing research in the following topics:
+<br>
+  - Reinforcement Learning & Decision Making<br>
+  - Inference on edge devices <br>
+  - Robotics<br>
+  - Computer Vision
 <br>
 <br>
 
