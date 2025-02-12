@@ -13,7 +13,7 @@ completed my thesis with the topic "Deep Learning based Fire and Smoke Detection
 <br>
 <br>
 
-Research Area
+Research Areas
 ======
 I am doing research in the following topics:
 <br>
