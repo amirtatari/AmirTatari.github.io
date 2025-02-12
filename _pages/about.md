@@ -18,7 +18,7 @@ Research Areas
 I am doing research in the following topics:
 <br>
   - Reinforcement Learning & Decision Making<br>
-  - Inference on edge devices <br>
+  - Model optimization<br>
   - Robotics<br>
   - Computer Vision
 <br>
