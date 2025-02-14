@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify"> 
-I am a machine learning engineer working at STRABAG ISS. I completed my MSc in Mechatronics from Hamburg Univerity of Technology(TUHH) and 
+I am a software engineer working at STRABAG ISS. I completed my MSc in Mechatronics from Hamburg Univerity of Technology(TUHH) and 
 completed my thesis with the topic "Deep Learning based Fire and Smoke Detection Algorithm for Unmanned Air Systems Operations" at <a href="https://www.tuhh.de/ilt/en/welcome-1">ILT</a> under the supervision of <a href="https://www.researchgate.net/profile/Volker-Gollnick">Prof. Dr.-Ing. Volker Gollnick</a>. <br>
 </div>
 <br>
